@@ -10,11 +10,12 @@
 }
 .navcontainer{
     display: flex;
-    flex-flow: row;
-    justify-content: space-between;
+   
 }
 .header{
     display: flex;
+    background-color: black;
+    width: 100%;
 }
 .right{
     display: flex;
@@ -42,5 +43,16 @@ width: 600px;
 left: 50px;
 top: 1154px;
 border-radius: nullpx;
+
+}
+.companyname{
+    color: white;
+}
+.left{
+    margin: 20px;
+
+}
+.maincontainer{
+    
 
 }
