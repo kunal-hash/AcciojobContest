@@ -1,0 +1,46 @@
+.images-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-flow: row;
+}
+.uppersectionofmain{
+    display: flex;
+    flex-flow: row;
+}
+.navcontainer{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+.header{
+    display: flex;
+}
+.right{
+    display: flex;
+}
+.headermaincontainer{
+    display: flex;
+}
+.content{
+    width: 500px;
+}
+#div-item{
+    width: 1000px
+    
+}
+.image{
+position: absolute;
+width: 729px;
+height: 911px;
+left: 922px;
+
+}
+.Heading2{
+    height: 94px;
+width: 600px;
+left: 50px;
+top: 1154px;
+border-radius: nullpx;
+
+}
